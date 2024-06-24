@@ -1,6 +1,8 @@
 # Example Python Flask Crud
 
- Simple example python flask crud app for sqlite.
+ Simple example python flask crud app for sqlite. 
+ This is a simple data entry application which was built on Python. 
+ Should work on Python 3.8 and above
  
 ## Screenshots
 
@@ -20,10 +22,16 @@ git clone https://github.com/slimprepdevops/example-python-flask-crud.git
 cd example-python-flask-crud/
 ```
 ```
+sudo apt update
+```
+```
+sudo apt install python3-pip
+```
+```
 pip install flask
 ```
 ```
-sudo apt install python3.8-venv
+sudo apt install python3-venv
 ```
 ```
 python3 -m venv venv
