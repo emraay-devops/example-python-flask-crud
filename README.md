@@ -16,7 +16,7 @@ open the terminal and follow the white rabbit.
 
 
 ```
-git clone https://github.com/slimprepdevops/example-python-flask-crud.git
+git clone https://github.com/emraay-devops/example-python-flask-crud.git
 ```
 ```
 cd example-python-flask-crud/
